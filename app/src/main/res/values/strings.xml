@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GTA Car Collections</string>
+    <string name="app_description">The list below contains each car that is part of a collection
+        from the Import/Export DLC. Search for the car name or the license plate. Check the cars
+        that you already have to keep track of the ones missing.</string>
+    <string name="search_hint">Search for car name or license plate</string>
+</resources>
